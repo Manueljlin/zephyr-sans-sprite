@@ -1,6 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="question" format="2">
-  <advance width="14"/>
+  <advance width="13"/>
     <unicode hex="003F"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="4" y="19" type="line"/>
+      <point x="3" y="19" type="line"/>
+      <point x="3" y="18" type="line"/>
+      <point x="2" y="18" type="line"/>
+      <point x="2" y="17" type="line"/>
+      <point x="1" y="17" type="line"/>
+      <point x="1" y="16" type="line"/>
+      <point x="1" y="15" type="line"/>
+      <point x="1" y="14" type="line"/>
+      <point x="2" y="14" type="line"/>
+      <point x="3" y="14" type="line"/>
+      <point x="4" y="14" type="line"/>
+      <point x="4" y="15" type="line"/>
+      <point x="4" y="16" type="line"/>
+      <point x="5" y="16" type="line"/>
+      <point x="5" y="17" type="line"/>
+      <point x="6" y="17" type="line"/>
+      <point x="7" y="17" type="line"/>
+      <point x="8" y="17" type="line"/>
+      <point x="8" y="16" type="line"/>
+      <point x="9" y="16" type="line"/>
+      <point x="9" y="15" type="line"/>
+      <point x="9" y="14" type="line"/>
+      <point x="9" y="13" type="line"/>
+      <point x="9" y="12" type="line"/>
+      <point x="9" y="11" type="line"/>
+      <point x="8" y="11" type="line"/>
+      <point x="8" y="10" type="line"/>
+      <point x="7" y="10" type="line"/>
+      <point x="6" y="10" type="line"/>
+      <point x="6" y="9" type="line"/>
+      <point x="5" y="9" type="line"/>
+      <point x="5" y="8" type="line"/>
+      <point x="5" y="7" type="line"/>
+      <point x="5" y="6" type="line"/>
+      <point x="6" y="6" type="line"/>
+      <point x="6" y="5" type="line"/>
+      <point x="7" y="5" type="line"/>
+      <point x="7" y="6" type="line"/>
+      <point x="8" y="6" type="line"/>
+      <point x="8" y="7" type="line"/>
+      <point x="8" y="8" type="line"/>
+      <point x="8" y="9" type="line"/>
+      <point x="9" y="9" type="line"/>
+      <point x="10" y="9" type="line"/>
+      <point x="10" y="10" type="line"/>
+      <point x="11" y="10" type="line"/>
+      <point x="11" y="11" type="line"/>
+      <point x="11" y="12" type="line"/>
+      <point x="12" y="12" type="line"/>
+      <point x="12" y="13" type="line"/>
+      <point x="12" y="14" type="line"/>
+      <point x="12" y="15" type="line"/>
+      <point x="12" y="16" type="line"/>
+      <point x="12" y="17" type="line"/>
+      <point x="11" y="17" type="line"/>
+      <point x="11" y="18" type="line"/>
+      <point x="10" y="18" type="line"/>
+      <point x="10" y="19" type="line"/>
+      <point x="9" y="19" type="line"/>
+      <point x="8" y="19" type="line"/>
+      <point x="7" y="19" type="line"/>
+      <point x="6" y="19" type="line"/>
+      <point x="5" y="19" type="line"/>
+    </contour>
+    <contour>
+      <point x="7" y="2" type="line"/>
+      <point x="7" y="3" type="line"/>
+      <point x="6" y="3" type="line"/>
+      <point x="6" y="2" type="line"/>
+      <point x="5" y="2" type="line"/>
+      <point x="5" y="1" type="line"/>
+      <point x="5" y="0" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="6" y="-1" type="line"/>
+      <point x="7" y="-1" type="line"/>
+      <point x="7" y="0" type="line"/>
+      <point x="8" y="0" type="line"/>
+      <point x="8" y="1" type="line"/>
+      <point x="8" y="2" type="line"/>
+    </contour>
+  </outline>
 </glyph>

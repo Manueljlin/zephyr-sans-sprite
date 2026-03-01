@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="endash" format="2">
-  <advance width="14"/>
+  <advance width="16"/>
     <unicode hex="2013"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="3" y="8" type="line"/>
+      <point x="2" y="8" type="line"/>
+      <point x="2" y="7" type="line"/>
+      <point x="2" y="6" type="line"/>
+      <point x="3" y="6" type="line"/>
+      <point x="4" y="6" type="line"/>
+      <point x="5" y="6" type="line"/>
+      <point x="6" y="6" type="line"/>
+      <point x="7" y="6" type="line"/>
+      <point x="8" y="6" type="line"/>
+      <point x="9" y="6" type="line"/>
+      <point x="10" y="6" type="line"/>
+      <point x="11" y="6" type="line"/>
+      <point x="12" y="6" type="line"/>
+      <point x="13" y="6" type="line"/>
+      <point x="14" y="6" type="line"/>
+      <point x="14" y="7" type="line"/>
+      <point x="14" y="8" type="line"/>
+      <point x="13" y="8" type="line"/>
+      <point x="12" y="8" type="line"/>
+      <point x="11" y="8" type="line"/>
+      <point x="10" y="8" type="line"/>
+      <point x="9" y="8" type="line"/>
+      <point x="8" y="8" type="line"/>
+      <point x="7" y="8" type="line"/>
+      <point x="6" y="8" type="line"/>
+      <point x="5" y="8" type="line"/>
+      <point x="4" y="8" type="line"/>
+    </contour>
+  </outline>
 </glyph>

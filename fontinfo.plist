@@ -13,7 +13,7 @@
     <key>descender</key>
     <integer>-6</integer>
     <key>capHeight</key>
-    <integer>18</integer>
+    <integer>19</integer>
     <key>xHeight</key>
     <integer>14</integer>
     <key>guidelines</key>
@@ -25,6 +25,22 @@
         <integer>7</integer>
         <key>identifier</key>
         <string>gl-1772319335218</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>midt</string>
+        <key>y</key>
+        <integer>9</integer>
+        <key>identifier</key>
+        <string>gl-1772392673182</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>midb</string>
+        <key>y</key>
+        <integer>5</integer>
+        <key>identifier</key>
+        <string>gl-1772392683333</string>
       </dict>
     </array>
   </dict>
