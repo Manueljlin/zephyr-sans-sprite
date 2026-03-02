@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e" format="2">
-  <advance width="15"/>
+  <advance width="14"/>
     <unicode hex="0065"/>
   <outline>
     <contour>
@@ -8,7 +8,7 @@
       <point x="5" y="14" type="line"/>
       <point x="5" y="13" type="line"/>
       <point x="4" y="13" type="line"/>
-      <point x="3" y="13" type="line"/>
+      <point x="4" y="12" type="line"/>
       <point x="3" y="12" type="line"/>
       <point x="2" y="12" type="line"/>
       <point x="2" y="11" type="line"/>
@@ -33,20 +33,18 @@
       <point x="8" y="0" type="line"/>
       <point x="9" y="0" type="line"/>
       <point x="10" y="0" type="line"/>
-      <point x="11" y="0" type="line"/>
+      <point x="10" y="1" type="line"/>
       <point x="11" y="1" type="line"/>
       <point x="12" y="1" type="line"/>
-      <point x="13" y="1" type="line"/>
+      <point x="12" y="2" type="line"/>
       <point x="13" y="2" type="line"/>
-      <point x="14" y="2" type="line"/>
-      <point x="14" y="3" type="line"/>
-      <point x="14" y="4" type="line"/>
+      <point x="13" y="3" type="line"/>
       <point x="13" y="4" type="line"/>
       <point x="12" y="4" type="line"/>
       <point x="11" y="4" type="line"/>
-      <point x="11" y="3" type="line"/>
+      <point x="10" y="4" type="line"/>
       <point x="10" y="3" type="line"/>
-      <point x="10" y="2" type="line"/>
+      <point x="9" y="3" type="line"/>
       <point x="9" y="2" type="line"/>
       <point x="8" y="2" type="line"/>
       <point x="7" y="2" type="line"/>
@@ -66,19 +64,17 @@
       <point x="11" y="6" type="line"/>
       <point x="12" y="6" type="line"/>
       <point x="13" y="6" type="line"/>
-      <point x="14" y="6" type="line"/>
-      <point x="14" y="7" type="line"/>
-      <point x="14" y="8" type="line"/>
-      <point x="14" y="9" type="line"/>
-      <point x="14" y="10" type="line"/>
+      <point x="13" y="7" type="line"/>
+      <point x="13" y="8" type="line"/>
+      <point x="13" y="9" type="line"/>
       <point x="13" y="10" type="line"/>
-      <point x="13" y="11" type="line"/>
-      <point x="13" y="12" type="line"/>
+      <point x="12" y="10" type="line"/>
+      <point x="12" y="11" type="line"/>
       <point x="12" y="12" type="line"/>
-      <point x="12" y="13" type="line"/>
+      <point x="11" y="12" type="line"/>
       <point x="11" y="13" type="line"/>
       <point x="10" y="13" type="line"/>
-      <point x="10" y="14" type="line"/>
+      <point x="9" y="13" type="line"/>
       <point x="9" y="14" type="line"/>
       <point x="8" y="14" type="line"/>
       <point x="7" y="14" type="line"/>
@@ -87,13 +83,11 @@
       <point x="6" y="12" type="line"/>
       <point x="7" y="12" type="line"/>
       <point x="8" y="12" type="line"/>
-      <point x="9" y="12" type="line"/>
+      <point x="8" y="11" type="line"/>
       <point x="9" y="11" type="line"/>
-      <point x="10" y="11" type="line"/>
-      <point x="11" y="11" type="line"/>
-      <point x="11" y="10" type="line"/>
-      <point x="11" y="9" type="line"/>
-      <point x="11" y="8" type="line"/>
+      <point x="9" y="10" type="line"/>
+      <point x="10" y="10" type="line"/>
+      <point x="10" y="9" type="line"/>
       <point x="10" y="8" type="line"/>
       <point x="9" y="8" type="line"/>
       <point x="8" y="8" type="line"/>

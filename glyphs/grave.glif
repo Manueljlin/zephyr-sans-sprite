@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="2">
-  <advance width="14"/>
+  <advance width="8"/>
     <unicode hex="0060"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="1" y="19" type="line"/>
+      <point x="2" y="19" type="line"/>
+      <point x="2" y="18" type="line"/>
+      <point x="3" y="18" type="line"/>
+      <point x="3" y="17" type="line"/>
+      <point x="4" y="17" type="line"/>
+      <point x="4" y="16" type="line"/>
+      <point x="5" y="16" type="line"/>
+      <point x="5" y="15" type="line"/>
+      <point x="6" y="15" type="line"/>
+      <point x="6" y="14" type="line"/>
+      <point x="7" y="14" type="line"/>
+      <point x="8" y="14" type="line"/>
+      <point x="8" y="15" type="line"/>
+      <point x="7" y="15" type="line"/>
+      <point x="7" y="16" type="line"/>
+      <point x="7" y="17" type="line"/>
+      <point x="6" y="17" type="line"/>
+      <point x="6" y="18" type="line"/>
+      <point x="5" y="18" type="line"/>
+      <point x="5" y="19" type="line"/>
+      <point x="4" y="19" type="line"/>
+      <point x="4" y="20" type="line"/>
+      <point x="3" y="20" type="line"/>
+      <point x="2" y="20" type="line"/>
+      <point x="1" y="20" type="line"/>
+    </contour>
+  </outline>
 </glyph>
