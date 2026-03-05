@@ -73,9 +73,11 @@
       <point x="14" y="2" type="line"/>
       <point x="14" y="3" type="line"/>
       <point x="14" y="4" type="line"/>
-      <point x="14" y="5" type="line"/>
-      <point x="14" y="6" type="line"/>
-      <point x="14" y="7" type="line"/>
+      <point x="15" y="4" type="line"/>
+      <point x="15" y="5" type="line"/>
+      <point x="15" y="6" type="line"/>
+      <point x="15" y="7" type="line"/>
+      <point x="15" y="8" type="line"/>
       <point x="14" y="8" type="line"/>
       <point x="14" y="9" type="line"/>
       <point x="14" y="10" type="line"/>

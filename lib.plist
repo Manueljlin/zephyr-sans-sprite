@@ -486,32 +486,32 @@
         <integer>1</integer>
         <key>rows</key>
         <array>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000001100000</string>
-          <string>00000001100000</string>
-          <string>00000001100000</string>
-          <string>00000001100000</string>
-          <string>00000001100000</string>
-          <string>00000001100000</string>
-          <string>011111111111111</string>
-          <string>011111111111111</string>
-          <string>00000001100000</string>
-          <string>00000001100000</string>
-          <string>00000001100000</string>
-          <string>00000001100000</string>
-          <string>00000001100000</string>
-          <string>00000001100000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000110000000</string>
+          <string>0000000110000000</string>
+          <string>0000000110000000</string>
+          <string>0000000110000000</string>
+          <string>0000000110000000</string>
+          <string>0000000110000000</string>
+          <string>0111111111111110</string>
+          <string>0111111111111110</string>
+          <string>0000000110000000</string>
+          <string>0000000110000000</string>
+          <string>0000000110000000</string>
+          <string>0000000110000000</string>
+          <string>0000000110000000</string>
+          <string>0000000110000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
         </array>
       </dict>
       <key>one</key>
@@ -752,40 +752,6 @@
           <string>000000000000000</string>
         </array>
       </dict>
-      <key>seven</key>
-      <dict>
-        <key>pixelSize</key>
-        <integer>1</integer>
-        <key>rows</key>
-        <array>
-          <string>00000000000000</string>
-          <string>01111111111110</string>
-          <string>01111111111110</string>
-          <string>00000000001110</string>
-          <string>00000000001110</string>
-          <string>00000000011100</string>
-          <string>00000000011100</string>
-          <string>00000000111000</string>
-          <string>00000000110000</string>
-          <string>00000001110000</string>
-          <string>00000011100000</string>
-          <string>00000011000000</string>
-          <string>00000111000000</string>
-          <string>00000111000000</string>
-          <string>00000110000000</string>
-          <string>00001110000000</string>
-          <string>00001110000000</string>
-          <string>00011100000000</string>
-          <string>00011100000000</string>
-          <string>00011100000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-        </array>
-      </dict>
       <key>six</key>
       <dict>
         <key>pixelSize</key>
@@ -818,6 +784,40 @@
           <string>000000000000000</string>
           <string>000000000000000</string>
           <string>000000000000000</string>
+        </array>
+      </dict>
+      <key>seven</key>
+      <dict>
+        <key>pixelSize</key>
+        <integer>1</integer>
+        <key>rows</key>
+        <array>
+          <string>00000000000000</string>
+          <string>01111111111110</string>
+          <string>01111111111110</string>
+          <string>00000000001110</string>
+          <string>00000000001110</string>
+          <string>00000000011100</string>
+          <string>00000000011100</string>
+          <string>00000000111000</string>
+          <string>00000000110000</string>
+          <string>00000001110000</string>
+          <string>00000011100000</string>
+          <string>00000011000000</string>
+          <string>00000111000000</string>
+          <string>00000111000000</string>
+          <string>00000110000000</string>
+          <string>00001110000000</string>
+          <string>00001110000000</string>
+          <string>00011100000000</string>
+          <string>00011100000000</string>
+          <string>00011100000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
         </array>
       </dict>
       <key>nine</key>
@@ -962,32 +962,32 @@
         <integer>1</integer>
         <key>rows</key>
         <array>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
           <string>0111111111111110</string>
           <string>0111111111111110</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
           <string>0111111111111110</string>
           <string>0111111111111110</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
         </array>
       </dict>
       <key>less</key>
@@ -1064,32 +1064,32 @@
         <integer>1</integer>
         <key>rows</key>
         <array>
-          <string>000000000000000000000000000000</string>
-          <string>0000000001110000000000000000000</string>
-          <string>0000000001110000000000000000000</string>
-          <string>00000000111110000000000000000000</string>
-          <string>00000000110110000000000000000000</string>
-          <string>0000000111011100000000000000000000</string>
-          <string>0000000110001100000000000000000000</string>
-          <string>0000000110001100000000000000000000</string>
-          <string>0000001110001110000000000000000000</string>
-          <string>00000011000001100000000000000000000</string>
-          <string>00000111000001110000000000000000000</string>
-          <string>00000110000000110000000000000000000</string>
-          <string>000001100000001100000000000000000000</string>
-          <string>000011111111111110000000000000000000</string>
-          <string>000011111111111110000000000000000000</string>
-          <string>0001110000000001110000000000000000000</string>
-          <string>0001110000000001110000000000000000000</string>
-          <string>0001100000000000110000000000000000000</string>
-          <string>00111000000000001110000000000000000000</string>
-          <string>00111000000000001110000000000000000000</string>
-          <string>0000000000000000000</string>
-          <string>0000000000000000000</string>
-          <string>0000000000000000000</string>
-          <string>0000000000000000000</string>
-          <string>0000000000000000000</string>
-          <string>0000000000000000000</string>
+          <string>000000000000000000000</string>
+          <string>000000000111000000000</string>
+          <string>000000000111000000000</string>
+          <string>000000001111100000000</string>
+          <string>000000001101100000000</string>
+          <string>000000011101110000000</string>
+          <string>000000011000110000000</string>
+          <string>000000011000110000000</string>
+          <string>000000111000111000000</string>
+          <string>000000110000011000000</string>
+          <string>000001110000011100000</string>
+          <string>000001100000001100000</string>
+          <string>000001100000001100000</string>
+          <string>000011111111111110000</string>
+          <string>000011111111111110000</string>
+          <string>000111000000000111000</string>
+          <string>000111000000000111000</string>
+          <string>000110000000000011000</string>
+          <string>001110000000000011100</string>
+          <string>001110000000000011100</string>
+          <string>000000000000000000000</string>
+          <string>000000000000000000000</string>
+          <string>000000000000000000000</string>
+          <string>000000000000000000000</string>
+          <string>000000000000000000000</string>
+          <string>000000000000000000000</string>
         </array>
       </dict>
       <key>greater</key>
@@ -2146,40 +2146,6 @@
           <string>0000000000000000</string>
         </array>
       </dict>
-      <key>asciicircum</key>
-      <dict>
-        <key>pixelSize</key>
-        <integer>1</integer>
-        <key>rows</key>
-        <array>
-          <string>00000011100000</string>
-          <string>00000011100000</string>
-          <string>00000111110000</string>
-          <string>00000110110000</string>
-          <string>00001110111000</string>
-          <string>00001100011000</string>
-          <string>00011100011100</string>
-          <string>00011000001100</string>
-          <string>001110000011100</string>
-          <string>001100000001100</string>
-          <string>000000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-        </array>
-      </dict>
       <key>a</key>
       <dict>
         <key>pixelSize</key>
@@ -2206,6 +2172,40 @@
           <string>001111001111100</string>
           <string>000111111011100</string>
           <string>000011110011100</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+        </array>
+      </dict>
+      <key>asciicircum</key>
+      <dict>
+        <key>pixelSize</key>
+        <integer>1</integer>
+        <key>rows</key>
+        <array>
+          <string>000000111000000</string>
+          <string>000000111000000</string>
+          <string>000001111100000</string>
+          <string>000001101100000</string>
+          <string>000011101110000</string>
+          <string>000011000110000</string>
+          <string>000111000111000</string>
+          <string>000110000011000</string>
+          <string>001110000011100</string>
+          <string>001100000001100</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
           <string>000000000000000</string>
           <string>000000000000000</string>
           <string>000000000000000</string>
@@ -2928,40 +2928,6 @@
           <string>0000000000000000</string>
         </array>
       </dict>
-      <key>w</key>
-      <dict>
-        <key>pixelSize</key>
-        <integer>1</integer>
-        <key>rows</key>
-        <array>
-          <string>000000000000000000000</string>
-          <string>000000000000000000000</string>
-          <string>000000000000000000000</string>
-          <string>000000000000000000000</string>
-          <string>000000000000000000000</string>
-          <string>000000000000000000000</string>
-          <string>011100000111000001110</string>
-          <string>011100000111000001110</string>
-          <string>011100000111000001110</string>
-          <string>011100000111000001110</string>
-          <string>001100000111000001100</string>
-          <string>001110001101100011100</string>
-          <string>001110001101100011100</string>
-          <string>001110001101100011100</string>
-          <string>000110001101100011000</string>
-          <string>000111011000110111000</string>
-          <string>000111011000110111000</string>
-          <string>000011011000110110000</string>
-          <string>000011111000111110000</string>
-          <string>000011111000111110000</string>
-          <string>000000000000000000000</string>
-          <string>000000000000000000000</string>
-          <string>000000000000000000000</string>
-          <string>000000000000000000000</string>
-          <string>000000000000000000000</string>
-          <string>000000000000000000000</string>
-        </array>
-      </dict>
       <key>v</key>
       <dict>
         <key>pixelSize</key>
@@ -2994,6 +2960,40 @@
           <string>000000000000000</string>
           <string>000000000000000</string>
           <string>000000000000000</string>
+        </array>
+      </dict>
+      <key>w</key>
+      <dict>
+        <key>pixelSize</key>
+        <integer>1</integer>
+        <key>rows</key>
+        <array>
+          <string>000000000000000000000</string>
+          <string>000000000000000000000</string>
+          <string>000000000000000000000</string>
+          <string>000000000000000000000</string>
+          <string>000000000000000000000</string>
+          <string>000000000000000000000</string>
+          <string>011100000111000001110</string>
+          <string>011100000111000001110</string>
+          <string>011100000111000001110</string>
+          <string>011100000111000001110</string>
+          <string>001100000111000001100</string>
+          <string>001110001101100011100</string>
+          <string>001110001101100011100</string>
+          <string>001110001101100011100</string>
+          <string>000110001101100011000</string>
+          <string>000111011000110111000</string>
+          <string>000111011000110111000</string>
+          <string>000011011000110110000</string>
+          <string>000011111000111110000</string>
+          <string>000011111000111110000</string>
+          <string>000000000000000000000</string>
+          <string>000000000000000000000</string>
+          <string>000000000000000000000</string>
+          <string>000000000000000000000</string>
+          <string>000000000000000000000</string>
+          <string>000000000000000000000</string>
         </array>
       </dict>
       <key>x</key>
@@ -3308,32 +3308,32 @@
         <integer>1</integer>
         <key>rows</key>
         <array>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
+          <string>0000000000</string>
         </array>
       </dict>
       <key>registered</key>
@@ -3478,32 +3478,32 @@
         <integer>1</integer>
         <key>rows</key>
         <array>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00100000000010</string>
-          <string>01110000000111</string>
-          <string>00111000001110</string>
-          <string>00011100011100</string>
-          <string>00001110111000</string>
-          <string>00000111110000</string>
-          <string>00000011100000</string>
-          <string>00000111110000</string>
-          <string>00001110111000</string>
-          <string>00011100011100</string>
-          <string>00111000001110</string>
-          <string>01110000000111</string>
-          <string>00100000000010</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>001000000000100</string>
+          <string>011100000001110</string>
+          <string>001110000011100</string>
+          <string>000111000111000</string>
+          <string>000011101110000</string>
+          <string>000001111100000</string>
+          <string>000000111000000</string>
+          <string>000001111100000</string>
+          <string>000011101110000</string>
+          <string>000111000111000</string>
+          <string>001110000011100</string>
+          <string>011100000001110</string>
+          <string>001000000000100</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
         </array>
       </dict>
       <key>periodcentered</key>
@@ -3546,32 +3546,32 @@
         <integer>1</integer>
         <key>rows</key>
         <array>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000011000000</string>
-          <string>000000111100000</string>
-          <string>000000111100000</string>
-          <string>000000011000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000110000000</string>
+          <string>0000001111000000</string>
+          <string>0000001111000000</string>
+          <string>0000000110000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
           <string>0111111111111110</string>
           <string>0111111111111110</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000011000000</string>
-          <string>000000111100000</string>
-          <string>000000111100000</string>
-          <string>000000011000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000110000000</string>
+          <string>0000001111000000</string>
+          <string>0000001111000000</string>
+          <string>0000000110000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
         </array>
       </dict>
       <key>endash</key>
@@ -3954,32 +3954,32 @@
         <integer>1</integer>
         <key>rows</key>
         <array>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>011111111111111</string>
-          <string>011111111111111</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0111111111111110</string>
+          <string>0111111111111110</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
+          <string>0000000000000000</string>
         </array>
       </dict>
       <key>section</key>
@@ -4628,40 +4628,6 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>Ccedilla</key>
-      <dict>
-        <key>pixelSize</key>
-        <integer>1</integer>
-        <key>rows</key>
-        <array>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-          <string>000000000000000</string>
-        </array>
-      </dict>
       <key>Edieresis</key>
       <dict>
         <key>pixelSize</key>
@@ -4694,6 +4660,40 @@
           <string>00000000000000</string>
           <string>00000000000000</string>
           <string>00000000000000</string>
+        </array>
+      </dict>
+      <key>Ccedilla</key>
+      <dict>
+        <key>pixelSize</key>
+        <integer>1</integer>
+        <key>rows</key>
+        <array>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
+          <string>000000000000000</string>
         </array>
       </dict>
       <key>Ecircumflex</key>
@@ -4798,7 +4798,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>Iacute</key>
+      <key>Icircumflex</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -4832,7 +4832,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>Icircumflex</key>
+      <key>Iacute</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -5104,7 +5104,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>Otilde</key>
+      <key>Ucircumflex</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -5138,7 +5138,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>Ucircumflex</key>
+      <key>Otilde</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -5206,7 +5206,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>Udieresis</key>
+      <key>Uacute</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -5240,7 +5240,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>Uacute</key>
+      <key>Udieresis</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -5546,40 +5546,6 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>adieresis</key>
-      <dict>
-        <key>pixelSize</key>
-        <integer>1</integer>
-        <key>rows</key>
-        <array>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-        </array>
-      </dict>
       <key>ae</key>
       <dict>
         <key>pixelSize</key>
@@ -5614,7 +5580,7 @@
           <string>000000000000000000000000</string>
         </array>
       </dict>
-      <key>aring</key>
+      <key>adieresis</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -5649,6 +5615,40 @@
         </array>
       </dict>
       <key>ccedilla</key>
+      <dict>
+        <key>pixelSize</key>
+        <integer>1</integer>
+        <key>rows</key>
+        <array>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+        </array>
+      </dict>
+      <key>aring</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -6974,7 +6974,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>dcaron</key>
+      <key>ccaron</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -7008,7 +7008,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>ccaron</key>
+      <key>dcaron</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -7178,7 +7178,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>gbreve</key>
+      <key>eogonek</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -7212,7 +7212,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>eogonek</key>
+      <key>gbreve</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -8334,7 +8334,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>OE</key>
+      <key>ohungarumlaut</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -8368,7 +8368,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>ohungarumlaut</key>
+      <key>OE</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -8470,7 +8470,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>rcaron</key>
+      <key>racute</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -8504,7 +8504,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>racute</key>
+      <key>rcaron</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -8640,40 +8640,6 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>Scaron</key>
-      <dict>
-        <key>pixelSize</key>
-        <integer>1</integer>
-        <key>rows</key>
-        <array>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-          <string>00000000000000</string>
-        </array>
-      </dict>
       <key>sacute</key>
       <dict>
         <key>pixelSize</key>
@@ -8709,6 +8675,40 @@
         </array>
       </dict>
       <key>scedilla</key>
+      <dict>
+        <key>pixelSize</key>
+        <integer>1</integer>
+        <key>rows</key>
+        <array>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+          <string>00000000000000</string>
+        </array>
+      </dict>
+      <key>Scaron</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -9014,7 +9014,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>Uogonek</key>
+      <key>Uhungarumlaut</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -9048,7 +9048,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>Uhungarumlaut</key>
+      <key>Uogonek</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -9150,7 +9150,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>Ycircumflex</key>
+      <key>ycircumflex</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -9184,7 +9184,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>ycircumflex</key>
+      <key>Ycircumflex</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -9388,7 +9388,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>Scommaaccent</key>
+      <key>zdotaccent</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>
@@ -9422,7 +9422,7 @@
           <string>00000000000000</string>
         </array>
       </dict>
-      <key>zdotaccent</key>
+      <key>Scommaaccent</key>
       <dict>
         <key>pixelSize</key>
         <integer>1</integer>

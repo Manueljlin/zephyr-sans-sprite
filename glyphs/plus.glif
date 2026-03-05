@@ -45,7 +45,9 @@
       <point x="12" y="7" type="line"/>
       <point x="13" y="7" type="line"/>
       <point x="14" y="7" type="line"/>
-      <point x="14" y="8" type="line"/>
+      <point x="15" y="7" type="line"/>
+      <point x="15" y="8" type="line"/>
+      <point x="15" y="9" type="line"/>
       <point x="14" y="9" type="line"/>
       <point x="13" y="9" type="line"/>
       <point x="12" y="9" type="line"/>

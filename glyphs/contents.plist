@@ -128,10 +128,10 @@
     <string>bracketleft.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
-    <key>asciicircum</key>
-    <string>asciicircum.glif</string>
     <key>a</key>
     <string>a.glif</string>
+    <key>asciicircum</key>
+    <string>asciicircum.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
     <key>b</key>
@@ -274,10 +274,10 @@
     <string>Egrave.glif</string>
     <key>Aring</key>
     <string>Aring.glif</string>
-    <key>Ccedilla</key>
-    <string>Ccedilla.glif</string>
     <key>Edieresis</key>
     <string>Edieresis.glif</string>
+    <key>Ccedilla</key>
+    <string>Ccedilla.glif</string>
     <key>Ecircumflex</key>
     <string>Ecircumflex.glif</string>
     <key>Eacute</key>
@@ -328,10 +328,10 @@
     <string>acircumflex.glif</string>
     <key>atilde</key>
     <string>atilde.glif</string>
-    <key>adieresis</key>
-    <string>adieresis.glif</string>
     <key>ae</key>
     <string>ae.glif</string>
+    <key>adieresis</key>
+    <string>adieresis.glif</string>
     <key>ccedilla</key>
     <string>ccedilla.glif</string>
     <key>aring</key>

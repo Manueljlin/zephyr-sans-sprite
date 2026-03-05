@@ -4,15 +4,13 @@
     <unicode hex="0071"/>
   <outline>
     <contour>
-      <point x="6" y="14" type="line"/>
-      <point x="5" y="14" type="line"/>
-      <point x="5" y="13" type="line"/>
-      <point x="4" y="13" type="line"/>
+      <point x="4" y="14" type="line"/>
+      <point x="3" y="14" type="line"/>
       <point x="3" y="13" type="line"/>
-      <point x="3" y="12" type="line"/>
+      <point x="2" y="13" type="line"/>
       <point x="2" y="12" type="line"/>
       <point x="2" y="11" type="line"/>
-      <point x="2" y="10" type="line"/>
+      <point x="1" y="11" type="line"/>
       <point x="1" y="10" type="line"/>
       <point x="1" y="9" type="line"/>
       <point x="1" y="8" type="line"/>
@@ -20,13 +18,13 @@
       <point x="1" y="6" type="line"/>
       <point x="1" y="5" type="line"/>
       <point x="1" y="4" type="line"/>
-      <point x="2" y="4" type="line"/>
+      <point x="1" y="3" type="line"/>
       <point x="2" y="3" type="line"/>
       <point x="2" y="2" type="line"/>
-      <point x="3" y="2" type="line"/>
+      <point x="2" y="1" type="line"/>
       <point x="3" y="1" type="line"/>
-      <point x="4" y="1" type="line"/>
-      <point x="5" y="1" type="line"/>
+      <point x="3" y="0" type="line"/>
+      <point x="4" y="0" type="line"/>
       <point x="5" y="0" type="line"/>
       <point x="6" y="0" type="line"/>
       <point x="7" y="0" type="line"/>
@@ -78,8 +76,11 @@
       <point x="9" y="14" type="line"/>
       <point x="8" y="14" type="line"/>
       <point x="7" y="14" type="line"/>
+      <point x="6" y="14" type="line"/>
+      <point x="5" y="14" type="line"/>
     </contour>
     <contour>
+      <point x="5" y="12" type="line"/>
       <point x="6" y="12" type="line"/>
       <point x="7" y="12" type="line"/>
       <point x="8" y="12" type="line"/>
@@ -87,13 +88,13 @@
       <point x="9" y="11" type="line"/>
       <point x="10" y="11" type="line"/>
       <point x="10" y="10" type="line"/>
-      <point x="11" y="10" type="line"/>
+      <point x="10" y="9" type="line"/>
       <point x="11" y="9" type="line"/>
       <point x="11" y="8" type="line"/>
       <point x="11" y="7" type="line"/>
       <point x="11" y="6" type="line"/>
       <point x="11" y="5" type="line"/>
-      <point x="11" y="4" type="line"/>
+      <point x="10" y="5" type="line"/>
       <point x="10" y="4" type="line"/>
       <point x="10" y="3" type="line"/>
       <point x="9" y="3" type="line"/>
@@ -101,7 +102,7 @@
       <point x="8" y="2" type="line"/>
       <point x="7" y="2" type="line"/>
       <point x="6" y="2" type="line"/>
-      <point x="6" y="3" type="line"/>
+      <point x="5" y="2" type="line"/>
       <point x="5" y="3" type="line"/>
       <point x="4" y="3" type="line"/>
       <point x="4" y="4" type="line"/>
@@ -113,7 +114,6 @@
       <point x="4" y="10" type="line"/>
       <point x="4" y="11" type="line"/>
       <point x="5" y="11" type="line"/>
-      <point x="6" y="11" type="line"/>
     </contour>
   </outline>
 </glyph>

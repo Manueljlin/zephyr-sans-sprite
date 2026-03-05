@@ -4,27 +4,26 @@
     <unicode hex="0040"/>
   <outline>
     <contour>
-      <point x="12" y="20" type="line"/>
-      <point x="11" y="20" type="line"/>
+      <point x="12" y="19" type="line"/>
       <point x="11" y="19" type="line"/>
-      <point x="10" y="19" type="line"/>
-      <point x="9" y="19" type="line"/>
-      <point x="8" y="19" type="line"/>
+      <point x="11" y="18" type="line"/>
+      <point x="10" y="18" type="line"/>
+      <point x="9" y="18" type="line"/>
       <point x="8" y="18" type="line"/>
-      <point x="7" y="18" type="line"/>
-      <point x="6" y="18" type="line"/>
+      <point x="8" y="17" type="line"/>
+      <point x="7" y="17" type="line"/>
       <point x="6" y="17" type="line"/>
-      <point x="5" y="17" type="line"/>
+      <point x="6" y="16" type="line"/>
       <point x="5" y="16" type="line"/>
-      <point x="4" y="16" type="line"/>
+      <point x="5" y="15" type="line"/>
       <point x="4" y="15" type="line"/>
-      <point x="3" y="15" type="line"/>
+      <point x="4" y="14" type="line"/>
       <point x="3" y="14" type="line"/>
-      <point x="2" y="14" type="line"/>
+      <point x="3" y="13" type="line"/>
       <point x="2" y="13" type="line"/>
       <point x="2" y="12" type="line"/>
       <point x="2" y="11" type="line"/>
-      <point x="1" y="11" type="line"/>
+      <point x="2" y="10" type="line"/>
       <point x="1" y="10" type="line"/>
       <point x="1" y="9" type="line"/>
       <point x="1" y="8" type="line"/>
@@ -33,57 +32,59 @@
       <point x="1" y="5" type="line"/>
       <point x="1" y="4" type="line"/>
       <point x="1" y="3" type="line"/>
-      <point x="2" y="3" type="line"/>
+      <point x="1" y="2" type="line"/>
       <point x="2" y="2" type="line"/>
       <point x="2" y="1" type="line"/>
-      <point x="3" y="1" type="line"/>
+      <point x="2" y="0" type="line"/>
       <point x="3" y="0" type="line"/>
-      <point x="4" y="0" type="line"/>
+      <point x="3" y="-1" type="line"/>
       <point x="4" y="-1" type="line"/>
       <point x="4" y="-2" type="line"/>
-      <point x="5" y="-2" type="line"/>
-      <point x="6" y="-2" type="line"/>
+      <point x="4" y="-3" type="line"/>
+      <point x="5" y="-3" type="line"/>
       <point x="6" y="-3" type="line"/>
-      <point x="7" y="-3" type="line"/>
+      <point x="6" y="-4" type="line"/>
       <point x="7" y="-4" type="line"/>
-      <point x="8" y="-4" type="line"/>
-      <point x="9" y="-4" type="line"/>
-      <point x="10" y="-4" type="line"/>
+      <point x="7" y="-5" type="line"/>
+      <point x="8" y="-5" type="line"/>
+      <point x="9" y="-5" type="line"/>
       <point x="10" y="-5" type="line"/>
-      <point x="11" y="-5" type="line"/>
-      <point x="12" y="-5" type="line"/>
-      <point x="13" y="-5" type="line"/>
-      <point x="14" y="-5" type="line"/>
-      <point x="15" y="-5" type="line"/>
-      <point x="16" y="-5" type="line"/>
-      <point x="17" y="-5" type="line"/>
+      <point x="10" y="-6" type="line"/>
+      <point x="11" y="-6" type="line"/>
+      <point x="12" y="-6" type="line"/>
+      <point x="13" y="-6" type="line"/>
+      <point x="14" y="-6" type="line"/>
+      <point x="15" y="-6" type="line"/>
+      <point x="16" y="-6" type="line"/>
+      <point x="17" y="-6" type="line"/>
+      <point x="18" y="-6" type="line"/>
       <point x="18" y="-5" type="line"/>
-      <point x="18" y="-4" type="line"/>
-      <point x="19" y="-4" type="line"/>
+      <point x="19" y="-5" type="line"/>
+      <point x="20" y="-5" type="line"/>
       <point x="20" y="-4" type="line"/>
-      <point x="20" y="-3" type="line"/>
+      <point x="19" y="-4" type="line"/>
       <point x="19" y="-3" type="line"/>
-      <point x="19" y="-2" type="line"/>
-      <point x="18" y="-2" type="line"/>
-      <point x="17" y="-2" type="line"/>
+      <point x="18" y="-3" type="line"/>
       <point x="17" y="-3" type="line"/>
-      <point x="16" y="-3" type="line"/>
-      <point x="15" y="-3" type="line"/>
-      <point x="14" y="-3" type="line"/>
-      <point x="13" y="-3" type="line"/>
-      <point x="12" y="-3" type="line"/>
-      <point x="11" y="-3" type="line"/>
+      <point x="17" y="-4" type="line"/>
+      <point x="16" y="-4" type="line"/>
+      <point x="15" y="-4" type="line"/>
+      <point x="14" y="-4" type="line"/>
+      <point x="13" y="-4" type="line"/>
+      <point x="12" y="-4" type="line"/>
+      <point x="11" y="-4" type="line"/>
+      <point x="10" y="-4" type="line"/>
       <point x="10" y="-3" type="line"/>
-      <point x="10" y="-2" type="line"/>
-      <point x="9" y="-2" type="line"/>
+      <point x="9" y="-3" type="line"/>
+      <point x="8" y="-3" type="line"/>
       <point x="8" y="-2" type="line"/>
-      <point x="8" y="-1" type="line"/>
-      <point x="7" y="-1" type="line"/>
+      <point x="7" y="-2" type="line"/>
+      <point x="6" y="-2" type="line"/>
       <point x="6" y="-1" type="line"/>
       <point x="6" y="0" type="line"/>
-      <point x="6" y="1" type="line"/>
+      <point x="5" y="0" type="line"/>
       <point x="5" y="1" type="line"/>
-      <point x="5" y="2" type="line"/>
+      <point x="4" y="1" type="line"/>
       <point x="4" y="2" type="line"/>
       <point x="4" y="3" type="line"/>
       <point x="4" y="4" type="line"/>
@@ -94,38 +95,36 @@
       <point x="4" y="9" type="line"/>
       <point x="4" y="10" type="line"/>
       <point x="4" y="11" type="line"/>
-      <point x="4" y="12" type="line"/>
+      <point x="5" y="11" type="line"/>
       <point x="5" y="12" type="line"/>
       <point x="5" y="13" type="line"/>
-      <point x="5" y="14" type="line"/>
+      <point x="6" y="13" type="line"/>
       <point x="6" y="14" type="line"/>
-      <point x="6" y="15" type="line"/>
+      <point x="7" y="14" type="line"/>
       <point x="7" y="15" type="line"/>
-      <point x="7" y="16" type="line"/>
+      <point x="8" y="15" type="line"/>
       <point x="8" y="16" type="line"/>
-      <point x="8" y="17" type="line"/>
-      <point x="9" y="17" type="line"/>
-      <point x="10" y="17" type="line"/>
+      <point x="9" y="16" type="line"/>
+      <point x="10" y="16" type="line"/>
+      <point x="11" y="16" type="line"/>
       <point x="11" y="17" type="line"/>
-      <point x="11" y="18" type="line"/>
-      <point x="12" y="18" type="line"/>
-      <point x="13" y="18" type="line"/>
-      <point x="14" y="18" type="line"/>
-      <point x="15" y="18" type="line"/>
-      <point x="16" y="18" type="line"/>
-      <point x="17" y="18" type="line"/>
+      <point x="12" y="17" type="line"/>
+      <point x="13" y="17" type="line"/>
+      <point x="14" y="17" type="line"/>
+      <point x="15" y="17" type="line"/>
+      <point x="16" y="17" type="line"/>
       <point x="17" y="17" type="line"/>
-      <point x="18" y="17" type="line"/>
-      <point x="19" y="17" type="line"/>
+      <point x="17" y="16" type="line"/>
+      <point x="18" y="16" type="line"/>
       <point x="19" y="16" type="line"/>
-      <point x="20" y="16" type="line"/>
-      <point x="21" y="16" type="line"/>
+      <point x="19" y="15" type="line"/>
+      <point x="20" y="15" type="line"/>
       <point x="21" y="15" type="line"/>
       <point x="21" y="14" type="line"/>
-      <point x="22" y="14" type="line"/>
+      <point x="21" y="13" type="line"/>
       <point x="22" y="13" type="line"/>
       <point x="22" y="12" type="line"/>
-      <point x="23" y="12" type="line"/>
+      <point x="22" y="11" type="line"/>
       <point x="23" y="11" type="line"/>
       <point x="23" y="10" type="line"/>
       <point x="23" y="9" type="line"/>
@@ -135,11 +134,13 @@
       <point x="23" y="5" type="line"/>
       <point x="23" y="4" type="line"/>
       <point x="23" y="3" type="line"/>
-      <point x="22" y="3" type="line"/>
+      <point x="23" y="2" type="line"/>
       <point x="22" y="2" type="line"/>
-      <point x="21" y="2" type="line"/>
+      <point x="22" y="1" type="line"/>
+      <point x="21" y="1" type="line"/>
+      <point x="20" y="1" type="line"/>
       <point x="20" y="2" type="line"/>
-      <point x="20" y="3" type="line"/>
+      <point x="19" y="2" type="line"/>
       <point x="19" y="3" type="line"/>
       <point x="19" y="4" type="line"/>
       <point x="19" y="5" type="line"/>
@@ -149,76 +150,76 @@
       <point x="19" y="9" type="line"/>
       <point x="19" y="10" type="line"/>
       <point x="19" y="11" type="line"/>
-      <point x="19" y="12" type="line"/>
+      <point x="18" y="11" type="line"/>
       <point x="18" y="12" type="line"/>
-      <point x="18" y="13" type="line"/>
+      <point x="17" y="12" type="line"/>
       <point x="17" y="13" type="line"/>
-      <point x="17" y="14" type="line"/>
-      <point x="16" y="14" type="line"/>
-      <point x="15" y="14" type="line"/>
-      <point x="14" y="14" type="line"/>
-      <point x="13" y="14" type="line"/>
-      <point x="12" y="14" type="line"/>
-      <point x="11" y="14" type="line"/>
+      <point x="16" y="13" type="line"/>
+      <point x="15" y="13" type="line"/>
+      <point x="14" y="13" type="line"/>
+      <point x="13" y="13" type="line"/>
+      <point x="12" y="13" type="line"/>
       <point x="11" y="13" type="line"/>
-      <point x="10" y="13" type="line"/>
-      <point x="9" y="13" type="line"/>
+      <point x="11" y="12" type="line"/>
+      <point x="10" y="12" type="line"/>
       <point x="9" y="12" type="line"/>
       <point x="9" y="11" type="line"/>
       <point x="9" y="10" type="line"/>
-      <point x="10" y="10" type="line"/>
-      <point x="11" y="10" type="line"/>
+      <point x="9" y="9" type="line"/>
+      <point x="10" y="9" type="line"/>
+      <point x="11" y="9" type="line"/>
+      <point x="12" y="9" type="line"/>
       <point x="12" y="10" type="line"/>
       <point x="12" y="11" type="line"/>
-      <point x="12" y="12" type="line"/>
-      <point x="13" y="12" type="line"/>
-      <point x="14" y="12" type="line"/>
-      <point x="15" y="12" type="line"/>
-      <point x="16" y="12" type="line"/>
+      <point x="13" y="11" type="line"/>
+      <point x="14" y="11" type="line"/>
+      <point x="15" y="11" type="line"/>
       <point x="16" y="11" type="line"/>
       <point x="16" y="10" type="line"/>
       <point x="16" y="9" type="line"/>
-      <point x="15" y="9" type="line"/>
-      <point x="14" y="9" type="line"/>
-      <point x="13" y="9" type="line"/>
+      <point x="16" y="8" type="line"/>
+      <point x="15" y="8" type="line"/>
+      <point x="14" y="8" type="line"/>
       <point x="13" y="8" type="line"/>
-      <point x="12" y="8" type="line"/>
-      <point x="11" y="8" type="line"/>
-      <point x="10" y="8" type="line"/>
+      <point x="13" y="7" type="line"/>
+      <point x="12" y="7" type="line"/>
+      <point x="11" y="7" type="line"/>
       <point x="10" y="7" type="line"/>
-      <point x="9" y="7" type="line"/>
+      <point x="10" y="6" type="line"/>
       <point x="9" y="6" type="line"/>
-      <point x="8" y="6" type="line"/>
+      <point x="9" y="5" type="line"/>
       <point x="8" y="5" type="line"/>
       <point x="8" y="4" type="line"/>
       <point x="8" y="3" type="line"/>
       <point x="8" y="2" type="line"/>
-      <point x="9" y="2" type="line"/>
+      <point x="8" y="1" type="line"/>
       <point x="9" y="1" type="line"/>
-      <point x="10" y="1" type="line"/>
+      <point x="9" y="0" type="line"/>
       <point x="10" y="0" type="line"/>
-      <point x="11" y="0" type="line"/>
-      <point x="12" y="0" type="line"/>
-      <point x="13" y="0" type="line"/>
-      <point x="14" y="0" type="line"/>
-      <point x="15" y="0" type="line"/>
+      <point x="10" y="-1" type="line"/>
+      <point x="11" y="-1" type="line"/>
+      <point x="12" y="-1" type="line"/>
+      <point x="13" y="-1" type="line"/>
+      <point x="14" y="-1" type="line"/>
+      <point x="15" y="-1" type="line"/>
+      <point x="16" y="-1" type="line"/>
       <point x="16" y="0" type="line"/>
-      <point x="16" y="1" type="line"/>
+      <point x="17" y="0" type="line"/>
       <point x="17" y="1" type="line"/>
-      <point x="17" y="2" type="line"/>
-      <point x="18" y="2" type="line"/>
       <point x="18" y="1" type="line"/>
-      <point x="19" y="1" type="line"/>
-      <point x="20" y="1" type="line"/>
+      <point x="18" y="0" type="line"/>
+      <point x="19" y="0" type="line"/>
       <point x="20" y="0" type="line"/>
-      <point x="21" y="0" type="line"/>
-      <point x="22" y="0" type="line"/>
+      <point x="20" y="-1" type="line"/>
+      <point x="21" y="-1" type="line"/>
+      <point x="22" y="-1" type="line"/>
+      <point x="23" y="-1" type="line"/>
       <point x="23" y="0" type="line"/>
-      <point x="23" y="1" type="line"/>
-      <point x="24" y="1" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="25" y="0" type="line"/>
       <point x="25" y="1" type="line"/>
       <point x="25" y="2" type="line"/>
-      <point x="25" y="3" type="line"/>
+      <point x="26" y="2" type="line"/>
       <point x="26" y="3" type="line"/>
       <point x="26" y="4" type="line"/>
       <point x="26" y="5" type="line"/>
@@ -228,50 +229,49 @@
       <point x="26" y="9" type="line"/>
       <point x="26" y="10" type="line"/>
       <point x="26" y="11" type="line"/>
-      <point x="26" y="12" type="line"/>
+      <point x="25" y="11" type="line"/>
       <point x="25" y="12" type="line"/>
       <point x="25" y="13" type="line"/>
-      <point x="25" y="14" type="line"/>
+      <point x="24" y="13" type="line"/>
       <point x="24" y="14" type="line"/>
       <point x="24" y="15" type="line"/>
-      <point x="24" y="16" type="line"/>
+      <point x="23" y="15" type="line"/>
       <point x="23" y="16" type="line"/>
-      <point x="23" y="17" type="line"/>
+      <point x="22" y="16" type="line"/>
       <point x="22" y="17" type="line"/>
-      <point x="22" y="18" type="line"/>
-      <point x="21" y="18" type="line"/>
+      <point x="21" y="17" type="line"/>
+      <point x="20" y="17" type="line"/>
       <point x="20" y="18" type="line"/>
-      <point x="20" y="19" type="line"/>
-      <point x="19" y="19" type="line"/>
-      <point x="18" y="19" type="line"/>
+      <point x="19" y="18" type="line"/>
+      <point x="18" y="18" type="line"/>
+      <point x="17" y="18" type="line"/>
       <point x="17" y="19" type="line"/>
-      <point x="17" y="20" type="line"/>
-      <point x="16" y="20" type="line"/>
-      <point x="15" y="20" type="line"/>
-      <point x="14" y="20" type="line"/>
-      <point x="13" y="20" type="line"/>
+      <point x="16" y="19" type="line"/>
+      <point x="15" y="19" type="line"/>
+      <point x="14" y="19" type="line"/>
+      <point x="13" y="19" type="line"/>
     </contour>
     <contour>
-      <point x="14" y="7" type="line"/>
-      <point x="15" y="7" type="line"/>
-      <point x="16" y="7" type="line"/>
+      <point x="14" y="6" type="line"/>
+      <point x="15" y="6" type="line"/>
       <point x="16" y="6" type="line"/>
       <point x="16" y="5" type="line"/>
       <point x="16" y="4" type="line"/>
       <point x="16" y="3" type="line"/>
-      <point x="15" y="3" type="line"/>
-      <point x="14" y="3" type="line"/>
+      <point x="16" y="2" type="line"/>
+      <point x="15" y="2" type="line"/>
       <point x="14" y="2" type="line"/>
-      <point x="13" y="2" type="line"/>
+      <point x="14" y="1" type="line"/>
+      <point x="13" y="1" type="line"/>
+      <point x="12" y="1" type="line"/>
       <point x="12" y="2" type="line"/>
-      <point x="12" y="3" type="line"/>
+      <point x="11" y="2" type="line"/>
       <point x="11" y="3" type="line"/>
       <point x="11" y="4" type="line"/>
-      <point x="11" y="5" type="line"/>
+      <point x="12" y="4" type="line"/>
       <point x="12" y="5" type="line"/>
-      <point x="12" y="6" type="line"/>
-      <point x="13" y="6" type="line"/>
-      <point x="14" y="6" type="line"/>
+      <point x="13" y="5" type="line"/>
+      <point x="14" y="5" type="line"/>
     </contour>
   </outline>
 </glyph>
