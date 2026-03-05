@@ -54,28 +54,28 @@
     <string>nine.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
-    <key>semicolon</key>
-    <string>semicolon.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
+    <key>semicolon</key>
+    <string>semicolon.glif</string>
     <key>equal</key>
     <string>equal.glif</string>
     <key>less</key>
     <string>less.glif</string>
     <key>question</key>
     <string>question.glif</string>
-    <key>A</key>
-    <string>A.glif</string>
     <key>greater</key>
     <string>greater.glif</string>
+    <key>A</key>
+    <string>A.glif</string>
     <key>B</key>
     <string>B.glif</string>
     <key>at</key>
     <string>at.glif</string>
-    <key>E</key>
-    <string>E.glif</string>
     <key>C</key>
     <string>C.glif</string>
+    <key>E</key>
+    <string>E.glif</string>
     <key>D</key>
     <string>D.glif</string>
     <key>G</key>
@@ -106,10 +106,10 @@
     <string>Q.glif</string>
     <key>U</key>
     <string>U.glif</string>
-    <key>T</key>
-    <string>T.glif</string>
     <key>S</key>
     <string>S.glif</string>
+    <key>T</key>
+    <string>T.glif</string>
     <key>V</key>
     <string>V.glif</string>
     <key>Y</key>
@@ -128,10 +128,10 @@
     <string>bracketleft.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
-    <key>a</key>
-    <string>a.glif</string>
     <key>asciicircum</key>
     <string>asciicircum.glif</string>
+    <key>a</key>
+    <string>a.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
     <key>b</key>
@@ -338,10 +338,10 @@
     <string>aring.glif</string>
     <key>egrave</key>
     <string>egrave.glif</string>
-    <key>ecircumflex</key>
-    <string>ecircumflex.glif</string>
     <key>icircumflex</key>
     <string>icircumflex.glif</string>
+    <key>ecircumflex</key>
+    <string>ecircumflex.glif</string>
     <key>eacute</key>
     <string>eacute.glif</string>
     <key>idieresis</key>
@@ -444,20 +444,20 @@
     <string>gcommaaccent.glif</string>
     <key>Hbar</key>
     <string>Hbar.glif</string>
-    <key>hbar</key>
-    <string>hbar.glif</string>
     <key>Imacron</key>
     <string>Imacron.glif</string>
+    <key>hbar</key>
+    <string>hbar.glif</string>
     <key>imacron</key>
     <string>imacron.glif</string>
-    <key>Iogonek</key>
-    <string>Iogonek.glif</string>
     <key>iogonek</key>
     <string>iogonek.glif</string>
-    <key>dotlessi</key>
-    <string>dotlessi.glif</string>
+    <key>Iogonek</key>
+    <string>Iogonek.glif</string>
     <key>Kcommaaccent</key>
     <string>Kcommaaccent.glif</string>
+    <key>dotlessi</key>
+    <string>dotlessi.glif</string>
     <key>Idotaccent</key>
     <string>Idotaccent.glif</string>
     <key>kcommaaccent</key>
@@ -606,20 +606,20 @@
     <string>uni030B.glif</string>
     <key>uni0308</key>
     <string>uni0308.glif</string>
-    <key>uni0327</key>
-    <string>uni0327.glif</string>
     <key>uni030C</key>
     <string>uni030C.glif</string>
+    <key>uni0327</key>
+    <string>uni0327.glif</string>
     <key>uni0328</key>
     <string>uni0328.glif</string>
     <key>Wgrave</key>
     <string>Wgrave.glif</string>
     <key>uni0326</key>
     <string>uni0326.glif</string>
-    <key>wgrave</key>
-    <string>wgrave.glif</string>
     <key>wacute</key>
     <string>wacute.glif</string>
+    <key>wgrave</key>
+    <string>wgrave.glif</string>
     <key>Wacute</key>
     <string>Wacute.glif</string>
     <key>Wdieresis</key>
@@ -634,10 +634,10 @@
     <string>uni1E9E.glif</string>
     <key>quotedblbase</key>
     <string>quotedblbase.glif</string>
-    <key>quotesinglbase</key>
-    <string>quotesinglbase.glif</string>
     <key>guilsinglright</key>
     <string>guilsinglright.glif</string>
+    <key>quotesinglbase</key>
+    <string>quotesinglbase.glif</string>
     <key>guilsinglleft</key>
     <string>guilsinglleft.glif</string>
   </dict>
