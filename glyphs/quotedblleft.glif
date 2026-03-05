@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblleft" format="2">
-  <advance width="14"/>
+  <advance width="12"/>
     <unicode hex="201C"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="4" y="20" type="line"/>
+      <point x="3" y="20" type="line"/>
+      <point x="3" y="19" type="line"/>
+      <point x="3" y="18" type="line"/>
+      <point x="3" y="17" type="line"/>
+      <point x="2" y="17" type="line"/>
+      <point x="2" y="16" type="line"/>
+      <point x="2" y="15" type="line"/>
+      <point x="2" y="14" type="line"/>
+      <point x="3" y="14" type="line"/>
+      <point x="4" y="14" type="line"/>
+      <point x="5" y="14" type="line"/>
+      <point x="5" y="15" type="line"/>
+      <point x="5" y="16" type="line"/>
+      <point x="5" y="17" type="line"/>
+      <point x="5" y="18" type="line"/>
+      <point x="5" y="19" type="line"/>
+      <point x="5" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="9" y="20" type="line"/>
+      <point x="8" y="20" type="line"/>
+      <point x="8" y="19" type="line"/>
+      <point x="8" y="18" type="line"/>
+      <point x="8" y="17" type="line"/>
+      <point x="7" y="17" type="line"/>
+      <point x="7" y="16" type="line"/>
+      <point x="7" y="15" type="line"/>
+      <point x="7" y="14" type="line"/>
+      <point x="8" y="14" type="line"/>
+      <point x="9" y="14" type="line"/>
+      <point x="10" y="14" type="line"/>
+      <point x="10" y="15" type="line"/>
+      <point x="10" y="16" type="line"/>
+      <point x="10" y="17" type="line"/>
+      <point x="10" y="18" type="line"/>
+      <point x="10" y="19" type="line"/>
+      <point x="10" y="20" type="line"/>
+    </contour>
+  </outline>
 </glyph>
